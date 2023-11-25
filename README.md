@@ -81,3 +81,5 @@ Validate model accuracy through testing data, deploy the system on Azure.
 ## Outcome Of The Predicted Soil/Crop In The Project
 
 ![Alt text](project_outputs/outcome.PNG)
+
+Thank you
