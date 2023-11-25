@@ -4,9 +4,32 @@
 
 IntelliFarm Tech is a precision farming solution designed to revolutionize modern agriculture by leveraging machine learning, Python, and Streamlit. The project aims to provide farmers with real-time, data-driven insights to enhance crop yield, optimize resource utilization, and foster sustainable farming practices.
 
+## Home Page of the project
+![Alt text](project_outputs/Homepage.PNG)
+
+## Data Info Page of the Project
+![Alt text](project_outputs/Datainfopage.PNG)
+
+## Table of Contents
+
+- [Abstract](#abstract)
+- [Problem Statement](#problem-statement)
+- [Aim and Objectives](#aim-and-objectives)
+- [System Design/Architecture](#system-designarchitecture)
+- [System Development Approach (Technology Used)](#system-development-approach-technology-used)
+- [Algorithm](#algorithm)
+- [Analysis and Planning](#analysis-and-planning)
+- [Data Preparation](#data-preparation)
+- [Machine Learning Models](#machine-learning-models)
+- [User Interface](#user-interface)
+- [Testing and Deployment](#testing-and-deployment)
+
 ## Problem Statement
 
 Agricultural communities face challenges such as suboptimal crop yields, diminished returns on investment, and a lack of informed decisions for veteran farmers regarding suitable crops.
+
+## Visualize The Crop
+![Alt text](project_outputs/Visualizecrop.PNG)
 
 ## Aim and Objectives
 
@@ -21,6 +44,9 @@ Agricultural communities face challenges such as suboptimal crop yields, diminis
 ## System Design/Architecture
 
 IntelliFarm Tech integrates Python and machine learning at the backend, with Streamlit serving as the GUI.
+
+## Predicting The Crop
+![Alt text](project_outputs/Predictyourcrop.PNG)
 
 ## System Development Approach (Technology Used)
 
@@ -51,12 +77,7 @@ Create a farmer-friendly Streamlit dashboard, design an intuitive navigation sys
 
 Validate model accuracy through testing data, deploy the system on Azure.
 
-## Feedback and Iteration
 
-Continuously gather user input, make iterative improvements for enhanced user experience.
+## Outcome Of The Predicted Soil/Crop In The Project
 
-## How to Use
-
-1. Install required dependencies.
-   ```bash
-   pip install -r requirements.txt
+![Alt text](project_outputs/outcome.PNG)
