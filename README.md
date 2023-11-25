@@ -82,4 +82,4 @@ Validate model accuracy through testing data, deploy the system on Azure.
 
 ![Alt text](project_outputs/outcome.PNG)
 
-Thank you
+Thank you so much
