@@ -4,3 +4,4 @@ streamlit
 Pillow
 seaborn
 matplotlib
+plotly
