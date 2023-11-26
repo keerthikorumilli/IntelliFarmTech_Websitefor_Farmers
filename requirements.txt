@@ -5,3 +5,6 @@ Pillow
 seaborn
 matplotlib
 plotly
+scikit-learn
+cython
+setuptools
